@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Dummy Comment -->
+<documents>
+	<document id="101" >
+		<title>Algorithms and Data Structures</title>
+		<price>400</price>
+		<authors>
+			<author id="301">
+				<name>John Doe</name>
+				<country>UK</country>
+				<year-born>1959</year-born>
+			</author>
+		</authors>
+	</document>
+	
+	<document id="102" >
+		<title>Head First Java</title>
+		<price>650</price>
+		<authors>
+			<author id="210">
+				<name>Juan Diego</name>
+				<country>USA</country>
+				<year-born>1962</year-born>
+			</author>
+		</authors>
+	</document>
+	
+	<document id="103" >
+		<title>POO for Dummies</title>
+		<price>350</price>
+		<authors>
+			<author id="407">
+				<name>Mark Princemans</name>
+				<country>Canada</country>
+				<year-born>1977</year-born>
+			</author>
+			<author id="407">
+				<name>Rakaj Prahajtikhan</name>
+				<country>Canada</country>
+				<year-born>1971</year-born>
+			</author>
+		</authors>
+	</document>
+</documents>

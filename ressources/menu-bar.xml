@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu-bar 
+	icons-folder="ressources/icons/"
+	base-package="io.houssam.xmlparser.actions"
+>
+	<menu name="File" action-class="FileActions">
+		<item name="New" icon="new.png" action="newFile">Nouveau fichier</item>
+		<item name="Open" icon="open.png" action="open">Ouvrir un fichier</item>
+		<item name="Save" icon="save.png" action="save">Sauvegarder un fichier</item>
+		<item name="Save As" icon="save_as.png" action="saveAs">Sauvegarder sous</item>
+		<separator />
+		<item name="Exit" icon="exit.png" action="exit">Quitter</item>
+	</menu>
+	<menu name="Edit" action-class="EditActions">
+		<item name="Copy" icon="copy.png" action="copy">Copier</item>
+		<item name="Cut" icon="cut.png" action="cut">Couper</item>
+		<item name="Paste" icon="paste.png" action="paste">Coller</item>
+	</menu>
+</menu-bar>
